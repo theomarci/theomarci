@@ -1,5 +1,5 @@
 <h1 align = center>
-  Hello everyonne ! 👋
+  Hello everyone ! 👋
 </h1>
 <br>
 <br>
@@ -16,8 +16,9 @@
 </ul>
 <br>
 <h4>
-  <a href = >www.linkedin.com/in/théo-marcille-866393235>profil Linkedin</a>  
+  <a href = www.linkedin.com/in/théo-marcille-866393235>profil Linkedin</a>  
 </h4>
+<br>
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 <p>
@@ -28,9 +29,9 @@
 </h4>
 <br>
 <ul>
-  <li>💻 I'm studying programming in Ada Tech School situated in Paris. It's an inclusive school inspired by Montessori method./li>
-  <li>🔎 Curently, I am looking for an intership, with a rythme of 4 days in company and 1 day in school.</li>
-  <li>📓 I'm learning some programming langage like : HTML, CSS, Python, Javascript, Rust...</li>
+  <li>💻 I'm studying programming at Ada Tech School in Paris. It's an inclusive school inspired by the Montessori method./li>
+  <li>🔎 I am currently looking for an intership, with a rythm of 4 days-1 day.</li>
+  <li>📓 I'm learning langages like : HTML, CSS, Python, Javascript, Rust...</li>
   <li>🗣️ I speak french, english and a little bit japannese. (I am autodidact)</li>
-  <li>📧 If you want to contact me : <a href = marcilletheo93@gmail.com> marcilletheo93@gmail.com</a></li>
+  <li>📧 Get in touch : <a href = marcilletheo93@gmail.com> marcilletheo93@gmail.com</a></li>
 </ul>
