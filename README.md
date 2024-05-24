@@ -16,8 +16,9 @@
 </ul>
 <br>
 <h4>
-  <a href = www.linkedin.com/in/théo-marcille-866393235>profil Linkedin</a>  
+  <a href = www.linkedin.com/in/théo-marcille-866393235></a>  
 </h4>
+<p></p>
 <br>
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
@@ -25,7 +26,7 @@
   English version
 </p>
 <h4>
-  Hello ! I am Théo MARCILLE (don't pronouce the h in my firstname, please), I have 31 years old and I am a future developer.
+  Hello ! I am Théo MARCILLE (don't pronouce the h in my firstname, please), I am 31 years old and I am a future developer.
 </h4>
 <br>
 <ul>
