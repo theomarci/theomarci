@@ -1,13 +1,13 @@
 <div>
   <div>
-    <img src="./Banner.png" alt="banner">
+    <img src="./src/Banner.png" alt="banner">
   </div>  
   <br>
   <br>
   <br>
   <br>
   <div align="center">
-    <img src="./Gif.gif" alt="gif">
+    <img src="./src/Gif.gif" alt="gif">
   </div>
   <br>
   <br>
