@@ -30,7 +30,7 @@
       :star: I'm creative, serious and I love to learn new things<br>
       :family: I like team work too<br>
       :email: If you want to contact me : <a href="marcilletheo93@gmail.com">marcilletheo93@gmail.com</a><br>
-      This is my linkedin :
+      This is my linkedin :<a href="https://www.linkedin.com/in/th%C3%A9o-marcille-866393235/">Théo Marcille</a>
         <br>
         <br>
       My hobbies are :<br>
