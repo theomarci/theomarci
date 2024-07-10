@@ -32,6 +32,7 @@
       :email: If you want to contact me : <a href="marcilletheo93@gmail.com">marcilletheo93@gmail.com</a><br>
       This is my linkedin :
         <br>
+        <br>
       My hobbies are :<br>
       </p>
       <ul> 
