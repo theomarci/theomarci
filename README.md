@@ -28,7 +28,9 @@
       🔭 I'm looking for a apprendticeship in fullstack development.<br>
       :sound: I speak  French (fluently), English(B2) and japanese(A1)<br>
       :star: I'm creative, serious and I love to learn new things<br>
-      :family: I like team work too
+      :family: I like team work too<br>
+      :email: If you want to contact me : <a href="marcilletheo93@gmail.com">marcilletheo93@gmail.com</a><br>
+      This is my linkedin :
         <br>
       My hobbies are :<br>
       </p>
