@@ -13,18 +13,28 @@
   <br>
   <br>
   <br>
-  <div align="center">
-    <div>
+  <div>
+    <div align="center">
       <h3>About Me :</h3>
     </div> 
     <div>
       <p>
-        Once upon a time, in a country far far away, live a young man looking for an apprenticeship to become a Fullstack developper. It's a long and hard way with so many mountains to climb, but this man don't want to leave this. To     
-        succeed this challenge, he has three weapons : <br>
-        :question: Curiosity <br>
-        :books: Thirst of knowledge <br>
-        :art: creativity <br>
+        <br>
+      Hey ! Welcome ! I'm so happy to see you here ! <br>
+        <br>
+      I'm Théo a french strudent in carrer change process in Fullstack developper at Ada Tech School in Paris. I'm so happy to share with you my learning's projects.<br>
+      Well, it's not the right place to write a novel so this some point that, I wish, interest you : <br>
+        <br>
+      I'm looking for a apprendticeship in fullstack development.<br>
+      I speak French (fluently) and English<br>
+      My hobbies are :<br>
       </p>
+      <ul> 
+        <li>  drawing </li>
+        <li>read</li>
+        <li>play video games and board games</li>
+        <li>writing</li>  
+      </ul>     
     </div>
   </div>
 </div>
