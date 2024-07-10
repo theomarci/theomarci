@@ -25,17 +25,23 @@
       I'm Théo a french strudent in carrer change process in Fullstack developper at Ada Tech School in Paris. I'm so happy to share with you my learning's projects.<br>
       Well, it's not the right place to write a novel so this some point that, I wish, interest you : <br>
         <br>
-      I'm looking for a apprendticeship in fullstack development.<br>
-      I speak French (fluently) and English<br>
+      🔭 I'm looking for a apprendticeship in fullstack development.<br>
+     :sound: I speak  French (fluently), English(B2) and japanese(A1)<br>
       My hobbies are :<br>
       </p>
       <ul> 
-        <li>  drawing </li>
-        <li>read</li>
-        <li>play video games and board games</li>
-        <li>writing</li>  
+        <li>:art: drawing :art:</li>
+        <li>:book: reading :book:</li>
+        <li>:video_game: playing video games and board games :game_die:</li>
+        <li>:pencil: writing :pencil:</li>  
       </ul>     
     </div>
+    <br>
+    <br>
+    <div>
+      <div align="center">
+        <h3>Stack</h3>
+      </div>
   </div>
 </div>
 
