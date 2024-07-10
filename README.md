@@ -48,7 +48,7 @@
         <img src="./src/js.png" alt="css3" width="50px" height="50px">
         <img src="./src/python.png" alt="css3" width="50px" height="50px">
         <img src="./src/postgre.png" alt="css3" width="50px" height="50px">
-        <img src="./src/django.png" alt="css3" width="50px" height="50px">
+        <img src="./src/django.png" alt="django" width="50px" height="50px">
         <img src="./src/react.png" alt="css3" width="50px" height="50px">
       </div>
   </div>
