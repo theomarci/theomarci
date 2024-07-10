@@ -26,7 +26,10 @@
       Well, it's not the right place to write a novel so this some point that, I wish, interest you : <br>
         <br>
       🔭 I'm looking for a apprendticeship in fullstack development.<br>
-     :sound: I speak  French (fluently), English(B2) and japanese(A1)<br>
+      :sound: I speak  French (fluently), English(B2) and japanese(A1)<br>
+      :star: I'm creative, serious and I love to learn new things<br>
+      :family: I like team work too
+        <br>
       My hobbies are :<br>
       </p>
       <ul> 
@@ -42,6 +45,7 @@
       <div align="center">
         <h3>Stack</h3>
       </div>
+      <br>
       <div>
         <img src="./src/css3.png" alt="css3" width="50px" height="50px">
         <img src="./src/html5.png" alt="css3" width="50px" height="50px">
@@ -50,6 +54,10 @@
         <img src="./src/postgre.png" alt="css3" width="50px" height="50px">
         <img src="./src/django.png" alt="django" width="50px" height="50px">
         <img src="./src/react.png" alt="css3" width="50px" height="50px">
+        <img src="./src/rust.png" alt="css3" width="50px" height="50px">
+        <img src="./src/php.png" alt="css3" width="50px" height="50px">
+        <img src="./src/csharp.png" alt="css3" width="50px" height="50px">
+        <img src="./src/docker.png" alt="css3" width="50px" height="50px">
       </div>
   </div>
 </div>
