@@ -43,7 +43,6 @@
       </ul>     
     </div>
     <br>
-    <br>
     <div>
       <div align="center">
         <h3>Stack</h3>
